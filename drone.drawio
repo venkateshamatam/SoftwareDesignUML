@@ -1,9 +1,116 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="GrOarH6B7msQWxPXAfKk">
-    <mxGraphModel>
+    <mxGraphModel dx="2792" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="112QbEC6jin--sL2lUC7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-2" target="112QbEC6jin--sL2lUC7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-2" target="112QbEC6jin--sL2lUC7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-2" value="&lt;li&gt;&lt;ul&gt;&lt;li&gt;&lt;pre class=&quot;!overflow-visible&quot;&gt;&lt;div class=&quot;dark bg-gray-950 contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative&quot;&gt;&lt;div dir=&quot;ltr&quot; class=&quot;overflow-y-auto p-4&quot;&gt;&lt;code class=&quot;!whitespace-pre hljs language-makefile&quot;&gt;&lt;span class=&quot;hljs-section&quot;&gt;R1: Drone Requirements&lt;/span&gt;&lt;br/&gt;&lt;/code&gt;&lt;/div&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-3" target="112QbEC6jin--sL2lUC7-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="790" />
+              <mxPoint x="-45" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-3" target="112QbEC6jin--sL2lUC7-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-3" value="&lt;li&gt;R1.2: Movement Requirement&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="190" y="470" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-4" value="&lt;li&gt;R1.3: Energy Requirement&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="410" y="470" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-5" target="112QbEC6jin--sL2lUC7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-5" target="112QbEC6jin--sL2lUC7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-5" target="112QbEC6jin--sL2lUC7-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-5" value="&lt;li&gt;&lt;ul&gt;&lt;li&gt;R1.4: Control Requirement&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;/p&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="640" y="470" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-6" target="112QbEC6jin--sL2lUC7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-6" value="&lt;li&gt;R1.1: Balance Requirement&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry y="475" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-2" target="112QbEC6jin--sL2lUC7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-4" target="112QbEC6jin--sL2lUC7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-12" value="&lt;li&gt;R1.1.3: The drone must rebalance after executing movement commands.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="670" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-13" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;R1.1.2: The drone must dynamically adjust to environmental changes.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="670" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-14" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;R1.1.1: The drone must hold itself mid-air.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="670" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-6" target="112QbEC6jin--sL2lUC7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-6" target="112QbEC6jin--sL2lUC7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-19" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.2.4&lt;/strong&gt;: The drone must conduct a number of acrobatic maneuvers.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="460" y="890" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-20" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.2.3&lt;/strong&gt;: The drone must rotate.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="270" y="890" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-21" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.2.2&lt;/strong&gt;: The drone must change direction.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="70" y="900" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-22" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.2.1&lt;/strong&gt;: The drone must move in all directions.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="900" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-23" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.2.5&lt;/strong&gt;: The drone must return to the starting point.&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="640" y="880" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-3" target="112QbEC6jin--sL2lUC7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-3" target="112QbEC6jin--sL2lUC7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-3" target="112QbEC6jin--sL2lUC7-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-30" value="&lt;li&gt;&lt;strong&gt;R1.3.1&lt;/strong&gt;: The drone must fly continuously for at least 30 minutes.&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1100" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-4" target="112QbEC6jin--sL2lUC7-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-32" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.4.1&lt;/strong&gt;: The drone must establish a stable connection.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1010" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-33" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.4.3&lt;/strong&gt;: The drone must re-establish connection if the connection is lost.&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1000" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-34" value="&lt;li&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;R1.4.2&lt;/strong&gt;: The drone must maintain connection.&lt;/li&gt;&lt;li&gt;&lt;/li&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=requirement;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1010" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="112QbEC6jin--sL2lUC7-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="112QbEC6jin--sL2lUC7-5" target="112QbEC6jin--sL2lUC7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
